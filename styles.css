@@ -8,6 +8,13 @@ input {
     background-color: yellow;
 }
 
+input[type=number]{
+    width: 75px;
+}
+
+input[type=text]{
+    width: 200px;
+}
 select {
     background-color: yellow;
 }
